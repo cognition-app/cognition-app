@@ -1,0 +1,26 @@
+{
+  "name": "cognition-app",
+  "version": "1.0.0",
+  "description": "Full cognition-app mono-repository",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "meta": "^1.0.62",
+    "meta-git": "0.0.33",
+    "meta-npm": "0.0.28",
+    "meta-project": "0.0.4"
+  },
+  "scripts": {
+    "start": "http-server --cors .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cognition-app/cognition-app.git"
+  },
+  "author": "Daniel J. B. Clarke <u8sand@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cognition-app/cognition-app/issues"
+  },
+  "homepage": "https://github.com/cognition-app/cognition-app#readme"
+}

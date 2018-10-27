@@ -1,5 +1,6 @@
 app
 cognition-app.github.io
+node_modules/
 plugins/provider/couchdb
 plugins/registry/registry
 plugins/view/dummy

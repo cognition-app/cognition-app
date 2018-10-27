@@ -1,0 +1,7 @@
+app
+cognition-app.github.io
+plugins/provider/couchdb
+plugins/registry/registry
+plugins/view/dummy
+plugins/view/notelist
+schema

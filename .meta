@@ -1,11 +1,11 @@
 {
   "projects": {
-    "app": "git@github.com:cognition-app/app.git",
-    "cognition-app.github.io": "git@github.com:cognition-app/cognition-app.github.io.git",
-    "plugins/provider/couchdb": "git@github.com:cognition-app/provider-couchdb.git",
-    "plugins/registry/registry": "git@github.com:cognition-app/registry.git",
-    "plugins/view/dummy": "git@github.com:cognition-app/view-dummy.git",
-    "plugins/view/notelist": "git@github.com:cognition-app/view-notelist.git",
-    "schema": "git@github.com:cognition-app/schema.git"
+    "packages/app": "git@github.com:cognition-app/app.git",
+    "packages/cognition-app.github.io": "git@github.com:cognition-app/cognition-app.github.io.git",
+    "packages/plugins/provider/couchdb": "git@github.com:cognition-app/provider-couchdb.git",
+    "packages/plugins/registry/registry": "git@github.com:cognition-app/registry.git",
+    "packages/plugins/view/dummy": "git@github.com:cognition-app/view-dummy.git",
+    "packages/plugins/view/notelist": "git@github.com:cognition-app/view-notelist.git",
+    "packages/schema": "git@github.com:cognition-app/schema.git"
   }
 }
